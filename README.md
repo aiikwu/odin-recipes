@@ -1,6 +1,6 @@
 # Odin Recipes
 
-This is my project for **[The Odin Project - HTML Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations#html-foundations)** where I will create a basic recipe website using HTML. This is a great opportunity to reinforce and showcase my what I've learned about HTML and project organization using Git.
+This is my project for **[The Odin Project - HTML Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations#html-foundations)** where I will create a basic recipe website using HTML. This is a great opportunity to reinforce and showcase what I've learned about HTML and project organization using Git.
 
 ## Features
 - **HTML Boilerplate** - structuring a webpage properly
